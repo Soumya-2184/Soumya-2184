@@ -31,7 +31,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-gupta-9b5777255/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=(https://github.com/Soumya-2184)&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=(Soumya-2184)&color=blue&style=for-the-badge)
 
 
 
