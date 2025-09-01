@@ -29,9 +29,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
 </p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/](https://www.linkedin.com/in/soumya-gupta-9b5777255/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-gupta-9b5777255/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=[YOUR-GITHUB-USERNAME](https://github.com/Soumya-2184)&color=blue&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=(https://github.com/Soumya-2184)&color=blue&style=for-the-badge)
 
 
 
