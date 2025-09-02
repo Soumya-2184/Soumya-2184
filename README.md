@@ -18,8 +18,8 @@
 
 ## 🛠 Languages & Tools
 
-<!-- Image on Right -->
-<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="matrix" width="300" src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif">
+
 
 <p align="left">
   <!-- Row 1 -->
