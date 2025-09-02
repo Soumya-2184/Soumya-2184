@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://www.linkedin.com/in/soumya-gupta-9b5777255/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Soumya-2184&color=blue&style=for-the-badge" alt="profile views" />
+</p>
+
+
 ## 👋 Hi there, I'm Soumya
 
 - 🚀 I turn complex problems into simple solutions with code.
@@ -36,9 +44,6 @@
 <!-- Image on Right -->
 <img align="right" alt="coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-gupta-9b5777255/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Soumya-2184&color=blue&style=for-the-badge)
 
 ## 🔥 My Stats :
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soumya-2184&show_icons=true&theme=radical)](https://github.com/Soumya-2184)
