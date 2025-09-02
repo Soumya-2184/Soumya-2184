@@ -33,5 +33,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Soumya-2184&color=blue&style=for-the-badge)
 
+## 🔥 My Stats :
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soumya-2184&show_icons=true&theme=radical)](https://github.com/Soumya-2184)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-2184&layout=compact&theme=radical)](https://github.com/Soumya-2184)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Soumya-2184&theme=radical)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumya-2184&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
