@@ -2,8 +2,10 @@
   <a href="https://www.linkedin.com/in/soumya-gupta-9b5777255/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <br>
   <img src="https://komarev.com/ghpvc/?username=Soumya-2184&color=blue&style=for-the-badge" alt="profile views" />
 </p>
+
 
 
 ## 👋 Hi there, I'm Soumya
