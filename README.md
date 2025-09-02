@@ -57,7 +57,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumya-2184&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 
 
