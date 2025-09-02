@@ -15,10 +15,11 @@
 - 💡 I believe in building before talking — code speaks louder than words.
 - 🤝 I love connecting with curious minds and working on ideas that feel a little ahead of their time.
 
-<!-- Image on Right -->
-<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ## 🛠 Languages & Tools
+
+<!-- Image on Right -->
+<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left">
   <!-- Row 1 -->
