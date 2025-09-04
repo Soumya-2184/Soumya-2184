@@ -48,15 +48,14 @@
 </p>
 
 
-## 📊 GitHub Stats & Activity
+## 🔥 M## 🔥 My Stats :
 
-<div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soumya-2184&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=15)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-2184&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Soumya-2184&theme=tokyonight&hide_border=true&border_radius=15)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Soumya-2184&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumya-2184&theme=tokyo-night&hide_border=true&radius=15)
 
@@ -67,7 +66,7 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Soumya-2184&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
-![Visitors](https://komarev.com/ghpvc/?username=Soumya-2184&label=Profile%20Views&color=blueviolet&style=for-the-badge)
+
 
 
 
