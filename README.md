@@ -55,7 +55,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-2184&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Soumya-2184&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Soumya-2184&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumya-2184&theme=tokyo-night&hide_border=true&radius=15)
 
