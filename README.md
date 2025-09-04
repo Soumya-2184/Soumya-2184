@@ -48,14 +48,26 @@
 </p>
 
 
-## 🔥 My Stats :
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soumya-2184&show_icons=true&theme=radical)](https://github.com/Soumya-2184)
+## 📊 GitHub Stats & Activity
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-2184&layout=compact&theme=radical)](https://github.com/Soumya-2184)
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Soumya-2184&theme=radical)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soumya-2184&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=15)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumya-2184&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soumya-2184&layout=compact&theme=tokyonight&hide_border=true&border_radius=15)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Soumya-2184&theme=tokyonight&hide_border=true&border_radius=15)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Soumya-2184&theme=tokyo-night&hide_border=true&radius=15)
+
+</div>
+
+### 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Soumya-2184&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</div>
+![Visitors](https://komarev.com/ghpvc/?username=Soumya-2184&label=Profile%20Views&color=blueviolet&style=for-the-badge)
 
 
 
