@@ -48,7 +48,7 @@
 </p>
 
 
-## 🔥 M## 🔥 My Stats :
+##🔥 My Stats :
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Soumya-2184&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&border_radius=15)
